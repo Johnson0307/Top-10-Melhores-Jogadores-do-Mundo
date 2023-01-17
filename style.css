@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background-color: rgba(44, 44, 255, 0.603);
+}
+ #btaoPx {
+    border-radius: 10px 20px 30px 40px;
+    width: 200px;
+ }
